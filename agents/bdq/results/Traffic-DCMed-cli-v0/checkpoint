@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/james/Projects/action-branching-agents/agents/bdq/results/Traffic-DCMed-cli-v0/model"
+all_model_checkpoint_paths: "/home/james/Projects/action-branching-agents/agents/bdq/results/Traffic-DCMed-cli-v0/model"
